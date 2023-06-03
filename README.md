@@ -11,3 +11,4 @@ reports of 23,22,21,20 added to reference the findings and the data
 8. z socre , IQR method , winsorization method & Scatter plot implemented
 9. KBin Discreatization Done by K means on Titanic dataset and some modification also added to new file
 10. Bank data analysis started 
+11. M.imp Bagging simple and Hyperparameters Tuned Decison tree classifier as base with BaggingClassifier Controlling the parameters
