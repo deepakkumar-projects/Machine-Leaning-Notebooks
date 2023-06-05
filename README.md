@@ -13,3 +13,4 @@ reports of 23,22,21,20 added to reference the findings and the data
 10. Bank data analysis started 
 11. M.imp Bagging simple and Hyperparameters Tuned Decison tree classifier as base with BaggingClassifier Controlling the parameters
 12. Bagging regressor is the way to go
+13. Comp added pse3 14
