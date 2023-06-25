@@ -16,4 +16,5 @@ reports of 23,22,21,20 added to reference the findings and the data
 13. Comp added pse3 14
 14. Multiple linear regression added
 15. Gradient Descent with diffrent Parameters
+16. Langchain based Open ai promt tmeplates added and promt from a csv file how to take added
 
